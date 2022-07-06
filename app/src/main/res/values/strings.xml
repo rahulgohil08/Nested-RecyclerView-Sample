@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tasks App Sample</string>
+    <string name="dashboard">Tasks App Sample</string>
+    <string name="view">Display</string>
+    <string name="notifications">Notification</string>
+    <string name="menu">More Menu</string>
+    <string name="fab">FAB</string>
+    <string name="logout">Logout</string>
+</resources>
